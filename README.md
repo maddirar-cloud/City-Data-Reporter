@@ -14,6 +14,12 @@ Displays:
 6. CSV saving mechanism
 7. Reads CSV data
 8. Error handling and API key errors
+**How to Run**
+py reporter.py
+
+OR
+
+open file, and click run on your preferred code editor
 
 **Requirements**
 Python 3
